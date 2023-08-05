@@ -8,8 +8,9 @@ function App() {
   const [data, setData] = useState(Data);
 
   return (
-    <>
-      <h1><span style={{color:'purple'}}>Pradeep 💗 Janu</span></h1>
+    <div className='body'>
+      
+      <h1><span>Pradeep 💗 Janu</span></h1>
         {
           data.map((data) => {
             return (
@@ -22,7 +23,7 @@ function App() {
           })
 
         }
-    </>
+    </div>
 
   );
 }

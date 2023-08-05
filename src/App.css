@@ -8,17 +8,28 @@
   font-weight: 500;
 }
 
-body{
-  background: rgb(37,191,223);
-background: linear-gradient(90deg, rgba(37,191,223,1) 2%, rgba(133,255,255,1) 100%, rgba(13,14,14,1) 100%);
+.body::before{
+  content: '';
+  background:url('../images/img.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  filter: brightness(70%);
+  position: absolute;
+  top: 0;left: 0;bottom: 0;right: 0;
+  z-index: -1;
 }
 h1{
   text-align: center;
-  margin: 2rem;
+  padding: 2rem;
 }
 h1 span{
   font-family: 'Great Vibes';
-  font-size: 3rem;
+  font-size: 4rem;
+  font-weight: bold;
+  letter-spacing: .6rem;
+  color: white;
 }
 .container{
   display: flex;
@@ -34,7 +45,7 @@ h1 span{
 .question{
   display: flex;
   justify-content: space-between;
-  background-color: rgb(100, 4, 100);
+  background-color: rgba(200, 89, 200, 0.85);
   color: #fff;
   padding: 1rem;
   border-radius: .4rem;
