@@ -1,7 +1,7 @@
 const Data = [
     {
         id : 1,
-        question : 'What is React?',
+        question : 'What is Love?',
         answer : 'React is JavaScript Library for creating user interfaces'
     },
     {
