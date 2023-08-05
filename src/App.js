@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>React Accordian</h1>
+      <h1>Important Dates of <span style={{color:'purple'}}>PRADEEP 💗 JANU</span></h1>
         {
           data.map((data) => {
             return (
