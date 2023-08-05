@@ -1,1 +1,1 @@
-This is React Accordian App with CSS
+REACT Accordian with some questions
