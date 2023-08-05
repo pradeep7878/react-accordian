@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>Important Dates of <span style={{color:'purple'}}>PRADEEP 💗 JANU</span></h1>
+      <h1><span style={{color:'purple'}}>Pradeep 💗 Janu</span></h1>
         {
           data.map((data) => {
             return (

@@ -7,13 +7,19 @@
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
 }
+
+body{
+  background: rgb(37,191,223);
+background: linear-gradient(90deg, rgba(37,191,223,1) 2%, rgba(133,255,255,1) 100%, rgba(13,14,14,1) 100%);
+}
 h1{
   text-align: center;
   margin: 2rem;
-  text-transform: uppercase;
-
 }
-
+h1 span{
+  font-family: 'Great Vibes', cursive;
+  font-size: 3rem;
+}
 .container{
   display: flex;
   justify-content: center;
