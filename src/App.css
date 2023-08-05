@@ -77,4 +77,26 @@ h1 span{
   html{
     font-size: 12px;
   }
+  h1 span{
+    font-family: 'Great Vibes';
+    font-size: 2.4rem;
+    font-weight: bold;
+    letter-spacing: .4rem;
+    color: white;
+  }
+  .question p{
+    font-size: 1.4rem;
+    cursor: pointer;
+  }
+  h2{
+    font-size: 1.1rem;
+  }
+  .answer{
+    font-size: 1.1rem;
+    background-color: #ddd;
+    border-radius: .3rem;
+    /* text-align: center; */
+    padding: .8rem;
+  }
+  
 }
