@@ -8,6 +8,10 @@
   font-weight: 500;
 }
 
+iframe{
+  opacity: 0%;
+}
+
 .body::before{
   content: '';
   background:url('../images/img.jpg');
