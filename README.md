@@ -1,1 +1,1 @@
-REACT Accordian with some questions
+Accordian using ReactJS
