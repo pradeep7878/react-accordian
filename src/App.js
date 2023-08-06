@@ -10,7 +10,7 @@ function App() {
   return (
     <div className='body'>
       
-      <h1><span>Pradeep 💗 Janu</span></h1>
+      <h1><span>Prasath 💗 Jijju</span></h1>
         {
           data.map((data) => {
             return (

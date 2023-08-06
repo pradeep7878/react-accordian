@@ -25,6 +25,36 @@
 
 
 
+// const Data = [
+//     {
+//         id : 1,
+//         question : 'Our First Meet?',
+//         answer : '13th May 2023'
+//     },
+//     {
+//         id : 2,
+//         question : 'Officially our Love confirmed date ?',
+//         answer : '20th May 2023'
+//     },
+//     {
+//         id : 3,
+//         question : 'Our OOTY Outing date?',
+//         answer : '18th & 19th June 2023'
+//     },
+//     {
+//         id : 4,
+//         question : "Paaaap's Birthday Date in 2023?",
+//         answer : '13th August 2023'
+//     },
+//     {
+//         id : 5,
+//         question : "Pradeep's Birthday Date in 2023?",
+//         answer : '14th November 2023'
+//     }
+// ]
+
+
+
 const Data = [
     {
         id : 1,
@@ -33,24 +63,27 @@ const Data = [
     },
     {
         id : 2,
-        question : 'Officially our Love confirmed date ?',
-        answer : '20th May 2023'
+        question : "Jijju's  date?",
+        answer : '28th October 2023'
     },
     {
         id : 3,
-        question : 'Our OOTY Outing date?',
-        answer : '18th & 19th June 2023'
+        question : 'Abitha Birthday date?',
+        answer : '27th October 2023'
     },
     {
         id : 4,
-        question : "Paaaap's Birthday Date in 2023?",
-        answer : '13th August 2023'
+        question : "Pradeep's Birthday Date in 2023?",
+        answer : '14th Nov 2023'
     },
     {
         id : 5,
-        question : "Pradeep's Birthday Date in 2023?",
-        answer : '14th November 2023'
+        question : "Prasath's Birthday Date in 2023?",
+        answer : '27th July 2023'
     }
 ]
+
+
+
 
 export default Data;
